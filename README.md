@@ -28,6 +28,9 @@
 * Original author manuGMG
 
 ## Changes made so far 
-- GUI icons (and their scale)
+ - GUI icons (and their scale)
+  
+## To do
+ - Actual implementation of Dark Blue theme (db_theme)
 
 
