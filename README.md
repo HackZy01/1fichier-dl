@@ -5,13 +5,13 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HackZy01/1fichier-dl/main/Screenshot_Light.png"></img>
-  <b>Light mode</b>
 </p>
+<b>Light mode</b>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HackZy01/1fichier-dl/main/Screenshot_Light.png"></img>
-  <b>Dark mode</b>
+  <img src="https://raw.githubusercontent.com/HackZy01/1fichier-dl/main/Screenshot_Dark.png"></img>
 </p>
+<b>Dark mode</b>
 
 ## Features
 ⭐ Manage your downloads
