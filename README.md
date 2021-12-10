@@ -28,6 +28,6 @@
 * Original author manuGMG
 
 ## Changes made so far 
-- GUI icons (and their s)
+- GUI icons (and their scale)
 
 
